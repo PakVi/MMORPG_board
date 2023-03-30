@@ -214,7 +214,7 @@ LOGIN_REDIRECT_URL = '/'
 ACCOUNT_SIGNUP_REDIRECT_URL = "/accounts/profile"
 
 EMAIL_HOST_USER = 'bunkermsk22'
-EMAIL_HOST_PASSWORD = "tjhmbcscfafohsmw"
+EMAIL_HOST_PASSWORD = ""
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
 
 EMAIL_HOST = 'smtp.yandex.ru'
